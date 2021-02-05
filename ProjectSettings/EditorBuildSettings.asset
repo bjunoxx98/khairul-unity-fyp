@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SG/Scenes/HomeMenu.unity
+    guid: 8523bf2dcc5eeec4fb36d194ab8770f4
+  - enabled: 1
+    path: Assets/SG/Scenes/LoginPage.unity
+    guid: 90c57a00485eec54ea48c8dbdce4a5fd
+  - enabled: 1
+    path: Assets/SG/Scenes/RegisterPage1.unity
+    guid: 40cb63741603d7242863ffd703860b57
+  - enabled: 1
+    path: Assets/SG/Scenes/Home-LOGIN.unity
+    guid: a91a4d0c712474d4b8d345dd921ca461
+  - enabled: 1
+    path: Assets/SG/Scenes/LevelMenu.unity
+    guid: 681bd7b60746aff48a43a064ea15e482
+  - enabled: 1
+    path: Assets/SG/Scenes/LoginPage(REGISTER).unity
+    guid: e4b01958118d15d41bd0c7d496ba2db8
+  - enabled: 1
+    path: Assets/SG/Scenes/StageMenu-1-rendang.unity
+    guid: 1b17cf027bd1a1e4e8edb9edcf1977f2
+  - enabled: 1
+    path: Assets/SG/Scenes/StageMenu-2-asamp.unity
+    guid: 0e4c55e5f894912429f89eebc3f54106
+  - enabled: 1
+    path: Assets/SG/Scenes/StageMenu-3-curry.unity
+    guid: a9bca00bfe161b34c84f79d9e8654c7b
+  - enabled: 1
+    path: Assets/SG/Scenes/Unused/StageMenu-4.unity
+    guid: dfe185bd3f9a02441a6a810b981db939
+  - enabled: 1
+    path: Assets/SG/Scenes/algo-01-rendang-developing.unity
+    guid: deed2efd017f82e42a056d29547ce2aa
+  - enabled: 1
+    path: Assets/SG/Scenes/algo-02-asamp-developing.unity
+    guid: a8056c87d63d91542b30d37c0dc987b7
+  - enabled: 1
+    path: Assets/SG/Scenes/algo-03-curry-developing.unity
+    guid: 65b1ba0b6a664be41ba50761f6acddab
+  - enabled: 1
+    path: Assets/SG/Scenes/Unused/algo-04.unity
+    guid: ca5295710c7b5f84492931e17bd29218
+  - enabled: 1
+    path: Assets/SG/Scenes/decom-01-rendang-developingv3.unity
+    guid: 8acccb577d61ca147ae837838572978f
+  - enabled: 1
+    path: Assets/SG/Scenes/decom-02-asamp-2201-0830.unity
+    guid: ec120088358e9384caf3e510e198d6d7
+  - enabled: 1
+    path: Assets/SG/Scenes/decom-03-curry-developing.unity
+    guid: 3baa039c4f1bb3a419428c910eda1aa8
+  - enabled: 1
+    path: Assets/SG/Scenes/Unused/decom-04.unity
+    guid: b6f12ce3a1e3c4843913999e23dadcaf
+  - enabled: 1
+    path: Assets/SG/Scenes/updateDetail.unity
+    guid: f0e83304ec301e348b0bc1fce005dc0c
+  - enabled: 1
+    path: Assets/SG/Scenes/viewscore.unity
+    guid: 1183ab1b223d4274fb94899886da614e
+  m_configObjects: {}
