@@ -4,13 +4,15 @@ Hello, my name is Muhammad Khairul, fourth year Software Engineering student fro
 
 >>Brief Explanation:-----------------------------
 
+**UPDATED : ALL THE MAIN SCRIPTS HAVE BEEN MOVED INTO 'ASSETS\MAIN SCRIPTS' FOLDER 
+
   >Scenes File:
   
   All the game scenes are located at 'Assets/SG/Scenes' folder. 
 
   >Script File:
   
-  Most of the important scripts are located in the 'Assets' folder while other are placed in other unorganized folder.
+  Most of the important scripts are located in the 'Assets/Main Scripts' folder while other are placed in other folder.
 
   >Prefab / Materials:
   
