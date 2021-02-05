@@ -4,20 +4,25 @@ Hello, my name is Muhammad Khairul, fourth year Software Engineering student fro
 
 Brief Explanation:-----------------------------
 
-  Scenes File
+  Scenes File:
+  
   All the game scenes are located at 'Assets/SG/Scenes' folder. 
 
-  Script File
+  Script File:
+  
   Most of the important scripts are located in the 'Assets' folder while other are placed in other unorganized folder.
 
-  Prefab / Materials
+  Prefab / Materials:
+  
   For ingredients, most of the prefab and materials used are located in the 'Assets/Craft Engine Pack (Demo)/Resources/'.
 
   Database:
+  
   I am using https://www.awardspace.com/ for the database and file hosting, which contains database and PHP files.
   All the database-related scripts are placed unorganized in 'Assets' folder.
 
-  Player movement-interactable scripts
+  Player movement-interactable scripts:
+  
   I am using Craft Engine Pack (Demo) from Assets store for the player movement and interaction.
 
 Long Explanation:------------------------------
